@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.register-body-main
+{
+    width: 100%;
+    margin-top: 70px;
+
+}
+
+.register-inside-body{
+    width: 25%;
+    padding: 3%;
+    margin-left: 35%;
+    border: 1px solid grey;
+    height: fit-content;
+    margin-top: 2%;
+}
+
+.form-input-css{
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+    margin-bottom: 3%;
+    padding: 2%;
+}
+
+.form-select-css{
+    width: 100%;
+    /* border: none; */
+    font-size: 18px;
+    outline: none;
+    margin-bottom: 3%;
+    padding: 2%;
+
+}
+
+.form-submit-css{
+    width: 100%;
+    padding: 3%;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    margin-top: 3%;
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.single-product-main-div{
+    margin-top: 100px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.single-product-left-div{
+    width: 50%;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.single-product-left-div>img{
+    width: 50%;
+}
+
+.single-product-right-div{
+    border: 1px solid gray;
+    width: 47%;
+    padding: 5%;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.single-product-price-margin-css{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

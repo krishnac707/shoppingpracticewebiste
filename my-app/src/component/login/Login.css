@@ -1,0 +1,10 @@
+
+.register-inside-body>p{
+    margin-top: 2%;
+    font-weight: 700;
+}
+
+.span-color-login{
+    color: rgb(233, 49, 233);
+    cursor: pointer;
+}
